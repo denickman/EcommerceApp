@@ -1,0 +1,92 @@
+[
+    {
+        "id": "hh231j3",
+        "title": "High-Performance Gaming PC",
+        "description": "Unleash the ultimate gaming experience with our custom-built gaming PC, equipped with top-tier components for unmatched performance. This powerhouse features the latest Intel Core i9 processor and NVIDIA RTX 3080 GPU, ensuring smooth, high-fidelity gameplay at 4K resolutions. With 32GB of DDR4 RAM and a 1TB NVMe SSD, load times are nearly non-existent, allowing you more time in-game and less time waiting. The stylish case with customizable RGB lighting not only looks cool but also enhances airflow to keep your system running at peak efficiency. Whether you're gaming, streaming, or multitasking, this gaming PC is built to excel in every scenario.",
+        "price": 1500,
+        "rating": 4.8,
+        "isFeatured": true,
+        "image": "computer"
+    },
+    {
+        "id": "cgc1hc41",
+        "title": "Trailblazer Pro Running Shoes",
+        "description": "Step up your game with the Trailblazer Pro running shoes, designed for both professional athletes and casual runners. These shoes feature a revolutionary lightweight design and advanced cushioning technology to provide exceptional comfort and support. The breathable mesh upper ensures your feet stay cool, even during intense workouts, while the durable, non-slip rubber outsole offers superior traction on any surface. With enhanced shock absorption, these shoes are perfect for long-distance running, sprinting, or everyday jogging. Available in a variety of colors to match your personal style, the Trailblazer Pro is your ultimate partner for achieving peak performance.",
+        "price": 120,
+        "rating": 3.5,
+        "isFeatured": false,
+        "image": "shoe"
+    },
+    {
+        "id": "6jb87kb8",
+        "title": "43 inch Full HD Flatscreen TV",
+        "description": "Experience clarity and simplicity with the CrystalView 43-inch Full HD Flatscreen TV. Perfect for any home setup, this TV features a 1080p resolution that ensures vivid colors and crisp detail, bringing your favorite movies and shows to life. The slim and sleek design fits seamlessly into any room, while the easy-to-use interface provides hassle-free navigation. Enjoy multiple connectivity options, including HDMI and USB ports, making it simple to connect your devices. Whether it's for your living room, bedroom, or office, this flatscreen TV offers reliable performance and exceptional value.",
+        "price": 550,
+        "rating": 4.2,
+        "isFeatured": true,
+        "image": "tv"
+    },
+    {
+        "id": "5w7d5df",
+        "title": "Air Conditioner",
+        "description": "Stay comfortable all year round with the CoolBreeze Compact Air Conditioner. This efficient unit is designed to cool spaces up to 500 square feet, making it ideal for small to medium-sized rooms. Featuring an easy-to-use digital control panel and remote control, you can adjust settings from anywhere in the room. The energy-efficient technology helps reduce your utility bills, while the quiet operation ensures it won't disrupt your daily activities. Its sleek, portable design allows you to move it effortlessly from room to room. Perfect for hot days, this air conditioner is a must-have for maintaining a pleasant indoor environment.",
+        "price": 770,
+        "isFeatured": false,
+        "rating": 2.2,
+        "image": "aircon"
+    },
+    {
+        "id": "8efefe86f",
+        "title": "Backpack",
+        "description": "Explore with ease using the AdventureReady Lightweight Backpack, designed for everyday use and spontaneous excursions. This backpack is crafted from high-quality, water-resistant material, ensuring your belongings stay dry and secure in any weather. Featuring a spacious main compartment with a dedicated laptop sleeve, it is perfect for school, work, or travel. The ergonomic shoulder straps provide comfortable wear, even when the bag is fully loaded. Additional pockets, including a front zippered pocket, offer easy access to essentials like your phone, wallet, and keys. Available in a variety of colors, this backpack combines functionality with style, making it a must-have for active individuals on the go.",
+        "price": 45,
+        "rating": 3.8,
+        "isFeatured": false,
+        "image": "backpack"
+    },
+    {
+        "id": "5w5dw57d57",
+        "title": "Sunglasses",
+        "description": "Shield your eyes in style with the SunGuard Classic UV400 Sunglasses. Perfect for any outdoor activity, these sunglasses feature durable, high-quality lenses that offer 100% UV protection, blocking all harmful UVA and UVB rays. The classic frame design suits any face shape and provides a comfortable fit for all-day wear. Lightweight yet robust, these sunglasses are ideal for daily use, whether you're driving, traveling, or simply enjoying a day out in the sun. Available in multiple colors, the SunGuard Classic Sunglasses combine timeless style with essential eye protection, making them an indispensable accessory for sunny days.",
+        "price": 22,
+        "rating": 4.9,
+        "isFeatured": true,
+        "image": "glasses"
+    },
+    {
+        "id": "s5c54sc4s",
+        "title": "Mug",
+        "description": "Start your day right with the Morning Brew Classic Ceramic Mug. Crafted from high-quality ceramic, this mug is designed for durability and daily use. Its classic shape holds 12 ounces of your favorite beverage, ideal for coffee, tea, or hot chocolate. The smooth, glossy finish not only looks elegant but is also easy to clean and microwave-safe, making it perfect for heating up drinks or soups. The large, comfortable handle provides a secure grip, enhancing your drinking experience. Available in a variety of vibrant colors, this mug is a cozy addition to your morning routine or office desk. Enjoy the simplicity and warmth of a reliable mug that feels like it was made just for you.",
+        "price": 22,
+        "rating": 5.0,
+        "isFeatured": false,
+        "image": "mug"
+    },
+    {
+        "id": "bm4m322v",
+        "title": "Telescope",
+        "description": "Unlock the mysteries of the night sky with the StarGazer Entry-Level Telescope. Ideal for beginners and amateur astronomers, this telescope features a 70mm aperture and 400mm focal length, providing clear, bright images of celestial objects. The easy-to-use altazimuth mount allows for smooth and accurate pointing, while the adjustable tripod ensures stable viewing on any surface. This telescope comes with two eyepieces for varying magnification, allowing you to explore everything from the Moon’s craters to Saturn’s rings. Lightweight and portable, it’s perfect for backyard stargazing or taking on camping trips. Discover the wonders of astronomy with this affordable and user-friendly telescope.",
+        "price": 230,
+        "rating": 4.5,
+        "isFeatured": false,
+        "image": "telescope"
+    },
+    {
+        "id": "ss4fs6fs7",
+        "title": "Phone",
+        "description": "Keep it simple and efficient with the EasyTalk Basic Cellphone, designed for straightforward communication. This compact device features a clear and bright display, large buttons for easy dialing, and an intuitive menu for hassle-free navigation. Equipped with essential functions like calling, texting, FM radio, and an alarm clock, it’s the perfect phone for those who prefer a no-frills approach to mobile technology. The long-lasting battery ensures you stay connected all day, while the durable build can withstand everyday wear and tear. Ideal for seniors, beginners, or anyone looking for a backup phone, the EasyTalk Basic Cellphone offers reliability and ease of use at an unbeatable price.",
+        "price": 230,
+        "rating": 3.9,
+        "isFeatured": false,
+        "image": "phone"
+    },
+    {
+        "id": "bnbn32123",
+        "title": "Game Console",
+        "description": "Step into the future of gaming with the GameMaster Pro Console, designed to deliver an immersive gaming experience with cutting-edge technology. This next-generation console boasts a powerful processor and advanced graphics capabilities, ensuring smooth, stunning visuals in 4K resolution. With a vast library of games across all genres, it offers something for everyone, from action-packed adventures to captivating sports simulations. The sleek, compact design fits perfectly in any entertainment setup, while the intuitive user interface makes navigating your gaming world a breeze. Included wireless controllers provide precision and comfort for hours of play. Whether you're a hardcore gamer or just looking for family entertainment, the GameMaster Pro Console is your gateway to a world of excitement and fun.",
+        "price": 440,
+        "rating": 4.7,
+        "isFeatured": true,
+        "image": "videogame"
+    }
+]
