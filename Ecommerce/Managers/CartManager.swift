@@ -13,6 +13,7 @@ class CartManager {
     
     var productsInCart: [ProductInCart] = []
     var addToCartAlert = false
+    let paymentService = PaymentService()
     
     var displayTotalCartPrice: String {
 //        var totalPrice = 0
@@ -66,6 +67,20 @@ class CartManager {
             }
            
         }
+    }
+    
+    func pay() {
+        print("pay >> pay")
+        guard productsInCart.count > 0 else {
+            return
+        }
+        
+        paymentService.startPayment(productInCart: productsInCart) { isSucces in
+            if isSucces {
+                self.productsInCart.removeAll()
+            }
+        }
+        
     }
 }
 
